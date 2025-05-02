@@ -1,0 +1,10 @@
+Added Component: Designator=*?(GH1.25-LS-6P)
+Added Pin To Net: NetName=GND Pin=*?-0
+Added Pin To Net: NetName=GND Pin=*?-0
+Added Pin To Net: NetName=FS1 Pin=*?-1
+Added Pin To Net: NetName=FS2 Pin=*?-2
+Added Pin To Net: NetName=FS3 Pin=*?-3
+Added Pin To Net: NetName=FS4 Pin=*?-4
+Added Pin To Net: NetName=GND Pin=*?-5
+Added Pin To Net: NetName=GND Pin=*?-6
+Added Member To Class: ClassName=fpc_1 Member=Component *? GH1.25_6p

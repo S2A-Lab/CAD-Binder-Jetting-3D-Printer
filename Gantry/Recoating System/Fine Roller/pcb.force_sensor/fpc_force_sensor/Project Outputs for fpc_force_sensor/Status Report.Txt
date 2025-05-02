@@ -1,0 +1,28 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [fpc_force_sensor.PrjPcb]
+   Generated File[fpc1_Legend_Top.gbr]
+   Generated File[fpc1_Paste_Top.gbr]
+   Generated File[fpc1_Soldermask_Top.gbr]
+   Generated File[fpc1_Copper_Signal_Top.gbr]
+   Generated File[fpc1_Copper_Signal_Bot.gbr]
+   Generated File[fpc1_Soldermask_Bot.gbr]
+   Generated File[fpc1_Paste_Bot.gbr]
+   Generated File[fpc1_Legend_Bot.gbr]
+   Generated File[fpc1_Board_Shape.gbr]
+   Generated File[fpc1_Mechanical_13.gbr]
+   Generated File[fpc1_Mechanical_15.gbr]
+   Generated File[fpc1_Keep-out.gbr]
+   Generated File[fpc1_Pads_Top.gbr]
+   Generated File[fpc1_Pads_Bot.gbr]
+   Generated File[fpc1_Other_1.gbr]
+   Generated File[fpc1_Other.gbr]
+   Generated File[fpc1_Drawing_1.gbr]
+   Generated File[fpc1_Drillmap_1.gbr]
+   Generated File[fpc1_Profile.gbr]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 2:45:16 AM On 6/14/2023

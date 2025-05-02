@@ -1,0 +1,6 @@
+Added Component: Designator=Fs1(sensor_connector)
+Added Component: Designator=Fs2(sensor_connector)
+Added Component: Designator=Fs3(sensor_connector)
+Added Component: Designator=Fs4(sensor_connector)
+Added Net: Name=GND
+Added Class: Name=fpc_1

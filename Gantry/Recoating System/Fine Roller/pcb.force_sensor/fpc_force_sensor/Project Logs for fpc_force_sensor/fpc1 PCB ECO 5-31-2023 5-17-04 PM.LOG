@@ -1,0 +1,16 @@
+Added Component: Designator=Fs1(sensor_connector)
+Added Component: Designator=Fs2(sensor_connector)
+Added Component: Designator=Fs3(sensor_connector)
+Added Component: Designator=Fs4(sensor_connector)
+Add Pin To Net: Unknown Pin: Pin Fs1-0
+Added Pin To Net: NetName=GND Pin=Fs1-1
+Add Pin To Net: Unknown Pin: Pin Fs2-0
+Added Pin To Net: NetName=GND Pin=Fs2-1
+Add Pin To Net: Unknown Pin: Pin Fs3-0
+Added Pin To Net: NetName=GND Pin=Fs3-1
+Add Pin To Net: Unknown Pin: Pin Fs4-0
+Added Pin To Net: NetName=GND Pin=Fs4-1
+Added Member To Class: ClassName=fpc_1 Member=Component Fs1 ForceSensor
+Added Member To Class: ClassName=fpc_1 Member=Component Fs2 ForceSensor
+Added Member To Class: ClassName=fpc_1 Member=Component Fs3 ForceSensor
+Added Member To Class: ClassName=fpc_1 Member=Component Fs4 ForceSensor

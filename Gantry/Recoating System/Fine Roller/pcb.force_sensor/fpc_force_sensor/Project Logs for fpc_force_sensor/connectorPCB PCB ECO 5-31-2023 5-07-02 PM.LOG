@@ -1,0 +1,20 @@
+Added Component: Designator=Fs1(sensor_connector)
+Added Component: Designator=Fs2(sensor_connector)
+Added Component: Designator=Fs3(sensor_connector)
+Added Component: Designator=Fs4(sensor_connector)
+Added Component: Designator=J1(FPC_connector)
+Added Pin To Net: NetName=FS1 Pin=J1-1
+Added Net: Name=FS1
+Added Pin To Net: NetName=FS2 Pin=J1-2
+Added Net: Name=FS2
+Added Pin To Net: NetName=FS3 Pin=J1-3
+Added Net: Name=FS3
+Added Pin To Net: NetName=FS4 Pin=J1-4
+Added Net: Name=FS4
+Added Pin To Net: NetName=GND Pin=Fs1-1
+Added Pin To Net: NetName=GND Pin=Fs2-1
+Added Pin To Net: NetName=GND Pin=Fs3-1
+Added Pin To Net: NetName=GND Pin=Fs4-1
+Added Pin To Net: NetName=GND Pin=J1-0
+Added Net: Name=GND
+Added Class: Name=fpc_1

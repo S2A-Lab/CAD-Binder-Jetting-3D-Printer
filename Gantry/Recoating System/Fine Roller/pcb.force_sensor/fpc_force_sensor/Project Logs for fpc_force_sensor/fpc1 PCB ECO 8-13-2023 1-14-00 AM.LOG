@@ -1,0 +1,26 @@
+Added Component: Designator=Fs1(sensor_connector)
+Added Component: Designator=Fs2(sensor_connector)
+Added Component: Designator=Fs3(sensor_connector)
+Added Component: Designator=Fs4(sensor_connector)
+Added Component: Designator=JP1(XH2.54-WI-5P)
+Add component (AddParameter): Name = "BOM??"; Value = "5P???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "??????? ID:????"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FS1 Pin=Fs1-0
+Added Pin To Net: NetName=GND Pin=Fs1-1
+Added Pin To Net: NetName=FS2 Pin=Fs2-0
+Added Pin To Net: NetName=GND Pin=Fs2-1
+Added Pin To Net: NetName=FS3 Pin=Fs3-0
+Added Pin To Net: NetName=GND Pin=Fs3-1
+Added Pin To Net: NetName=FS4 Pin=Fs4-0
+Added Pin To Net: NetName=GND Pin=Fs4-1
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=FS4 Pin=JP1-2
+Added Pin To Net: NetName=FS3 Pin=JP1-3
+Added Pin To Net: NetName=FS2 Pin=JP1-4
+Added Pin To Net: NetName=FS1 Pin=JP1-5
+Added Member To Class: ClassName=fpc_1 Member=Component Fs1 ForceSensor
+Added Member To Class: ClassName=fpc_1 Member=Component Fs2 ForceSensor
+Added Member To Class: ClassName=fpc_1 Member=Component Fs3 ForceSensor
+Added Member To Class: ClassName=fpc_1 Member=Component Fs4 ForceSensor
+Added Member To Class: ClassName=fpc_1 Member=Component JP1 HDR-1X5

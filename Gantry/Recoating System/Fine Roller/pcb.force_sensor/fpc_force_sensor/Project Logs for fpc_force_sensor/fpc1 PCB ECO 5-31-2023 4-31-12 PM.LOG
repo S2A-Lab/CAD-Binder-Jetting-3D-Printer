@@ -1,0 +1,41 @@
+Added Component: Designator=J1(MOLX-54548-1571)
+Add component (AddParameter): Name = "Circuits (Loaded)"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/molex/index.jsp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/0545481571_FFC_FPC_CONNECTORS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.molex.com/pdm_docs/sd/545481571_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Position"; Value = "Bottom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current (Max per Contact)"; Value = "0.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Durability (mating cycles max)"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Entry Angle"; Value = "90degrees Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mated Height"; Value = "1.20mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material - Metal"; Value = "Phosphor Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material - Plating Mating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material - Plating Termination"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "15-Lead FPC Connector, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "54548-1571"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. N, 06/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "54548-1571"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Locator"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Retention"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch - Mating Interface"; Value = "0.50mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarized to PCB"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stackable"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage (Max)"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetFs1_0 Pin=J1-1
+Added Net: Name=NetFs1_0
+Added Pin To Net: NetName=NetFs2_0 Pin=J1-2
+Added Net: Name=NetFs2_0
+Added Pin To Net: NetName=NetFs3_0 Pin=J1-3
+Added Net: Name=NetFs3_0
+Added Pin To Net: NetName=NetFs4_0 Pin=J1-4
+Added Net: Name=NetFs4_0
+Added Member To Class: ClassName=fpc_1 Member=Component J1 54548-1571

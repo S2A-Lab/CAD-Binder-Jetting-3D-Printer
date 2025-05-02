@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=*-0
+Removed Pin From Net: NetName=FS1 Pin=*-1
+Removed Pin From Net: NetName=FS2 Pin=*-2
+Removed Pin From Net: NetName=FS3 Pin=*-3
+Removed Pin From Net: NetName=FS4 Pin=*-4
+Removed Member From Class: ClassName=fpc_1 Member=*
